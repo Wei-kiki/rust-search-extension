@@ -1,0 +1,1 @@
+/home/runner/work/rust-search-extension/rust-search-extension/rust/target/debug/labels-index: /home/runner/work/rust-search-extension/rust-search-extension/rust/src/bin/labels-index.rs /home/runner/work/rust-search-extension/rust-search-extension/rust/src/lib.rs /home/runner/work/rust-search-extension/rust-search-extension/rust/src/minify.rs
